@@ -1,9 +1,9 @@
 ## CI/CD
-
+TESTE 
 O pipeline de Integração Contínua roda automaticamente a cada `push` ou `pull request`
 na branch `main`, executando lint (flake8) e os testes automatizados (pytest). olas
 
-Veja o workflow em `.github/workflows/ci.yml`.
+Veja o workflow em `.github/workflows/ci.yml`. bjhjh
 
 ## Preparação para o workshop
 
